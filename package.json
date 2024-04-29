@@ -1,6 +1,6 @@
 {
   "name": "paymentsapiexample",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "description": "Js extension to call Super App Api.",
   "main": "index.js",
   "scripts": {
